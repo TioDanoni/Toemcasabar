@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.vagas.com.br	TRUE	/	FALSE	1999999999	__cf_bm	d940mmYBhmLK9Qasfog2RjlZO2_yHy94q8N.579zQe0-1696284554-0-AV+tAKeaAfTbUWhm02alT/DbEkhyuaNys4mPaiJ8dkz05XG2d1WOushPaZfvfi9zPAWXpqAi7top/BdUUv0YwjY=
+trabalheconosco.vagas.com.br	TRUE	/	FALSE	1999999999	SameSite	None
+
